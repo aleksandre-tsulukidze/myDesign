@@ -1,0 +1,27 @@
+.Header {
+    width: 100%;
+    background-color: #A89D7F;
+    text-align: center;
+    text-shadow: 3px 3px rgb(90, 90, 90);
+}
+
+.Header div {
+    margin: 10px 7%;
+    font-style: italic;
+    font-weight: 500;
+    font-size: 27px;
+    color: white;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.Header .Other {
+    position: relative;
+    top: -33px;
+}
+
+.Header .Other a {
+    text-decoration: none;
+    color: white;
+}

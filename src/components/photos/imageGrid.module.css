@@ -1,0 +1,12 @@
+.ImgGrid {
+    margin: auto;
+    padding: 40px 20px ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 20px;
+}
+
+.ImgGrid div Img {
+    box-sizing: border-box;
+    box-shadow: 3px 4px 6px rgb(80, 80, 80);
+}

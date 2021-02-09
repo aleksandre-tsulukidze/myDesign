@@ -1,0 +1,15 @@
+.Wraper {
+    align-items: center;
+}
+
+.Slides {
+    display: none;
+}
+
+.Active {
+    max-width: 40%;
+    max-height: 20%;
+    margin: auto;
+    align-items: center;
+    background-color: blue;
+}

@@ -1,0 +1,5 @@
+.Body {
+    /* position: relative; */
+    min-height: calc(100vh - 291px);
+    background-color: #E0D5BD;
+}

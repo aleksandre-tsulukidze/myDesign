@@ -1,0 +1,33 @@
+.wraper {
+    margin: 8px;
+    width: 80%;
+    margin: 20px auto;
+    text-align: start;
+}
+
+.content {
+    position: relative;
+    box-sizing: border-box;
+    border: 1px solid rgb(119, 95, 64);
+    background-color: rgb(255, 240, 215);
+    color: rgb(110, 83, 47);
+    padding-left: 5px;
+    margin-bottom: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.content h3{
+    color: rgb(49, 41, 29);
+}
+
+.content .icon {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    color: rgb(175, 49, 49);
+    background-color: #E0D5BD;
+    border-radius: 50%;
+    background-color: transparent;
+    cursor: pointer;
+    /* border-style:hidden */
+}
